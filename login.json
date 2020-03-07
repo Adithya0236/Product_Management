@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "",
+      "password": "",
+      "email": "",
+      "phoneNo": ""
+    },
+    {
+      "name": "adithyA",
+      "email": "ADFGHJK",
+      "phno": "8462266",
+      "pass": "DFGHJK",
+      "id": 2
+    },
+    {
+      "name": "",
+      "email": "",
+      "phno": "",
+      "pass": "",
+      "id": 3
+    },
+    {
+      "name": "",
+      "email": "",
+      "phno": "",
+      "pass": "",
+      "id": 4
+    },
+    {
+      "name": "ascas",
+      "email": "sacvv",
+      "phno": "85241",
+      "pass": "afsgrnfym",
+      "id": 5
+    },
+    {
+      "name": "adithya",
+      "email": "adithya",
+      "phno": "81244",
+      "pass": "adithya",
+      "id": 6
+    }
+  ]
+}

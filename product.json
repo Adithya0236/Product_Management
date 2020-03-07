@@ -1,0 +1,20 @@
+{
+  "productdetail": [
+    {
+      "id": 1,
+      "pname": "Iphone",
+      "quantity": "10",
+      "category": "Mobile",
+      "supplier": "Apple",
+      "desc": "Advance Phone"
+    },
+    {
+      "id": 2,
+      "pname": "Samsung",
+      "quantity": "15",
+      "category": "Mobile",
+      "supplier": "Samsung",
+      "desc": "SMART PHONE"
+    }
+  ]
+}
